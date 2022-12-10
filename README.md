@@ -63,6 +63,10 @@ Necessary data and folder structure above should be in place before running this
 
 The script will load data from the `.csv` in `/data/` directory, transform categorical variables 
 
+The structure of the script:
+
+![diagram of model steps](./readme_images/untitled.jpeg)
+
 ## Author 
 -   **Udacity** (Main functions and .ipynb)  [Udacity Machine Learning DevOps Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
 -   **Derrick Lewis** (Documenation, logging, tests)  [Portfolio Site](https://www.derrickjameslewis.com) - [linkedin](https://www.linkedin.com/in/derrickjlewis/)
